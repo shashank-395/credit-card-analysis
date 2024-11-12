@@ -1,0 +1,57 @@
+"D:\Python\DA Projects\CC Dashboard\Credit Card Dashboard.txt"
+
+Credit Card Dashboard Insight
+
+Credit Card Customer & Transaction Report Dashboard
+Unlocking key insights into customer behavior and credit card performance
+
+This comprehensive dashboard, designed in Power BI, offers data-driven insights into credit card transactions and customer behavior. By leveraging a variety of performance metrics and demographic data, it helps stakeholders track revenue trends, customer segments, and spending patterns effectively.
+
+Overview:
+Total Revenue: $55M
+Interest Earned: $7.8M
+Income: $576M
+Transaction Count: 656K
+Credit Score Summary (CSS): 3.19
+Key Insights:
+Card Category Performance:
+
+Blue Cards lead across categories with $46M in revenue and $37M in transaction amounts.
+Other card categories like Silver, Gold, and Platinum also contribute to significant customer segmentation and usage.
+Revenue & Transactions by Quarter:
+
+Q3 shows the highest revenue at $14.2M with the largest transaction volume at 166.6K.
+Monitoring quarterly fluctuations helps identify growth opportunities and potential downturns.
+Demographic Segmentation:
+
+Graduates generate the highest revenue by education level ($22M), with key customer jobs being businessmen ($17M) and White-collar professionals ($10M).
+Age groups 40-50 drive the highest revenue among customers, followed by 50-60.
+Expenditure Patterns:
+
+Bills account for $14M in customer expenditure, followed by Entertainment ($10M) and Fuel/Groceries ($9M each).
+This segmentation can help target marketing strategies and reward programs to high-spending categories.
+Transaction Methods:
+
+Swipe transactions are the most popular, generating $35M in revenue, with Chip transactions contributing $17M.
+Revenue by Dependent and Marital Status insights help highlight household spending behavior.
+Geographical & State-Wise Performance:
+
+States like Texas (TX) and California (CA) emerge as top contributors in both revenue and transaction counts.
+This helps regional segmentation for future marketing initiatives.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Credit Card Customer & Transaction Analysis Dashboard
+
+Description: Developed an interactive Power BI dashboard to analyze credit card transaction trends and customer demographics, providing key insights for revenue optimization and targeted marketing.
+
+Responsibilities:
+
+Data Modeling & Cleaning: Built a structured data model and transformed raw data using Power Query to ensure accuracy and consistency.
+DAX Calculations: Created advanced DAX measures to calculate Total Revenue, Interest Earned, Transaction Counts, and Customer Satisfaction Score (CSS).
+Key Insights:
+
+Revenue & Demographics Analysis: Visualized revenue and spending patterns across age, income, and education levels to support targeted marketing.
+Transaction Patterns: Analyzed card usage and spending behavior, identifying high-performing expenditure categories.
+Promotional Effectiveness: Measured the impact of promotions on spending to guide future campaigns.
+Impact: Enabled data-driven decisions in customer targeting and promotional strategies, improving customer engagement and revenue growth.
